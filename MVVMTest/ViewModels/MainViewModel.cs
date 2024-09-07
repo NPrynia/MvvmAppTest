@@ -1,5 +1,8 @@
-﻿using System;
+﻿using MVVMTest.Models;
+using MVVMTest.Stores;
+using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,11 +12,13 @@ namespace MVVMTest.ViewModels
     public class MainViewModel : BaseViewModel
     {
 
-        public BaseViewModel CurrentViewModel { get;  }
 
-        public MainViewModel()
+        private NavigationStore _navigationStore;
+        public BaseViewModel CurrentViewModel => _navigationStore.CurrentViewModel;  
+
+        public MainViewModel(NavigationStore navigationStore)
         {
-            CurrentViewModel = new ReservationListingViewModel();
+            _navigationStore = navigationStore;
         }
     }
 }

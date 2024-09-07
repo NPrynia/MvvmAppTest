@@ -10,6 +10,15 @@ namespace MVVMTest.Models
     {
 
         private readonly List<Reservation> _reservation;
+
+
+        public List<Reservation> Reservations 
+        { 
+            get
+            {
+                return _reservation; 
+            } 
+        }
         public ReservationBook() 
         {
             _reservation = new List<Reservation>();

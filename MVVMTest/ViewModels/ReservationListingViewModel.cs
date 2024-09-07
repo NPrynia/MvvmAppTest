@@ -1,4 +1,5 @@
-﻿using MVVMTest.Models;
+﻿using MVVMTest.Command;
+using MVVMTest.Models;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -16,9 +17,9 @@ namespace MVVMTest.ViewModels
         public ICommand createReservationComand {  get;  }
 
 
-        private ObservableCollection<ReservationViewModel> _reservations;
+        private ObservableCollection<Reservation> _reservations;
 
-        public ObservableCollection<ReservationViewModel> ReservationsList 
+        public ObservableCollection<Reservation> ReservationsList 
         { 
             get 
             {
@@ -33,19 +34,8 @@ namespace MVVMTest.ViewModels
 
         public ReservationListingViewModel()
         {
-            _reservations = new ObservableCollection<ReservationViewModel>();
-            _reservations.Add(new ReservationViewModel(new Reservation(new RoomID(1, 2),"Priani",
-                new DateTime(2023, 12, 12),
-                new DateTime(2023, 12, 20)
-                )));
-            _reservations.Add(new ReservationViewModel(new Reservation(new RoomID(2, 4),"Priani",
-               new DateTime(2023, 12, 1),
-               new DateTime(2023, 12, 25)
-               )));
-            _reservations.Add(new ReservationViewModel(new Reservation(new RoomID(3, 6), "Mishel",
-               new DateTime(2023, 12, 2),
-               new DateTime(2023, 12, 12)
-               )));
+            
+            //_reservations = new ObservableCollection<Reservation>(hotel.ReservationBook.Reservations);
         }
     }
 }

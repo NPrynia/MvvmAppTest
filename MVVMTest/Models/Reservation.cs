@@ -24,6 +24,10 @@ namespace MVVMTest.Models
             {
                 return _userName;
             }
+            set
+            {
+                _userName = value;
+            }
         }
 
 

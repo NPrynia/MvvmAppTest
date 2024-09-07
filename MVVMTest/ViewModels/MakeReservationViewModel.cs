@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MVVMTest.Command;
+using MVVMTest.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -86,6 +88,11 @@ namespace MVVMTest.ViewModels
 
         public ICommand addReservationCommand {  get; }
         public ICommand cancelReservationCommand {  get; }
+
+        public MakeReservationViewModel(Hotel hotel)
+        {
+            addReservationCommand = new MakeReservationCommand(this,hotel);
+        }
 
     }
 }

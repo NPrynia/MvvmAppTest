@@ -3,11 +3,23 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:MVVMTest" xmlns:views="clr-namespace:MVVMTest.Views"
+        xmlns:local="clr-namespace:MVVMTest" 
+        xmlns:views="clr-namespace:MVVMTest.Views"
         mc:Ignorable="d" FontFamily="Bookman Old Style"
+        xmlns:vms="clr-namespace:MVVMTest.ViewModels"
         Title="MainWindow" Height="450" Width="800">
     <Grid Margin="20">
-        <views:ReservationListing DataContext="{Binding CurrentViewModel}" />
+        <Grid.Resources>
+            <DataTemplate DataType="{x:Type vms:MakeReservationViewModel}">
+                <views:MakeReservation/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vms:ReservationListingViewModel}">
+                <views:ReservationListing/>
+            </DataTemplate>
+
+        </Grid.Resources>
+        <ContentControl Content="{Binding CurrentViewModel}"/>
+
 
     </Grid>
 </Window>
