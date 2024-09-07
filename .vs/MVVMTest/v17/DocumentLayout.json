@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\project\\C#\\MVVMTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\views\\reservationlisting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\views\\reservationlisting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\views\\reservationlisting.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\views\\reservationlisting.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\viewmodels\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\viewmodels\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\viewmodels\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\viewmodels\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\models\\roomid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\models\\roomid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\viewmodels\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\viewmodels\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\views\\makereservation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\views\\makereservation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\views\\makereservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\views\\makereservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\models\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\models\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|e:\\programming\\project\\c#\\mvvmtest\\mvvmtest\\mvvmtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8E397EC-A56E-42EF-A46D-CD43D81CDB9E}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\mvvmtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationListing.xaml.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Views\\ReservationListing.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\Views\\ReservationListing.xaml.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Views\\ReservationListing.xaml.cs",
+              "RelativeToolTip": "MVVMTest\\Views\\ReservationListing.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:47:01.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationViewModel.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\ViewModels\\ReservationViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\ViewModels\\ReservationViewModel.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\ViewModels\\ReservationViewModel.cs",
+              "RelativeToolTip": "MVVMTest\\ViewModels\\ReservationViewModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:09:19.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\Models\\Hotel.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Models\\Hotel.cs",
+              "RelativeToolTip": "MVVMTest\\Models\\Hotel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:27:47.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\Models\\Reservation.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Models\\Reservation.cs",
+              "RelativeToolTip": "MVVMTest\\Models\\Reservation.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:28:03.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomID.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Models\\RoomID.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\Models\\RoomID.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Models\\RoomID.cs",
+              "RelativeToolTip": "MVVMTest\\Models\\RoomID.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwCUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:28:33.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "MVVMTest\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:59:29.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationListing.xaml",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Views\\ReservationListing.xaml",
+              "RelativeDocumentMoniker": "MVVMTest\\Views\\ReservationListing.xaml",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Views\\ReservationListing.xaml",
+              "RelativeToolTip": "MVVMTest\\Views\\ReservationListing.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T10:41:01.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationListingViewModel.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\ViewModels\\ReservationListingViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\ViewModels\\ReservationListingViewModel.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\ViewModels\\ReservationListingViewModel.cs",
+              "RelativeToolTip": "MVVMTest\\ViewModels\\ReservationListingViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:58:50.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVMTest\\MainWindow.xaml",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\MainWindow.xaml",
+              "RelativeToolTip": "MVVMTest\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T09:23:31.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MVVMTest\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:23:27.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MakeReservationViewModel.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\ViewModels\\MakeReservationViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\ViewModels\\MakeReservationViewModel.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\ViewModels\\MakeReservationViewModel.cs",
+              "RelativeToolTip": "MVVMTest\\ViewModels\\MakeReservationViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:58:03.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\App.xaml",
+              "RelativeDocumentMoniker": "MVVMTest\\App.xaml",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\App.xaml",
+              "RelativeToolTip": "MVVMTest\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T14:23:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MakeReservation.xaml.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Views\\MakeReservation.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\Views\\MakeReservation.xaml.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Views\\MakeReservation.xaml.cs",
+              "RelativeToolTip": "MVVMTest\\Views\\MakeReservation.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:07:26.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MakeReservation.xaml",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Views\\MakeReservation.xaml",
+              "RelativeDocumentMoniker": "MVVMTest\\Views\\MakeReservation.xaml",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Views\\MakeReservation.xaml",
+              "RelativeToolTip": "MVVMTest\\Views\\MakeReservation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T10:40:42.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\App.xaml.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\App.xaml.cs",
+              "RelativeToolTip": "MVVMTest\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:23:37.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReservationBook.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Models\\ReservationBook.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\Models\\ReservationBook.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\Models\\ReservationBook.cs",
+              "RelativeToolTip": "MVVMTest\\Models\\ReservationBook.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA8wBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:28:17.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "MVVMTest\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:12:36.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\AssemblyInfo.cs",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\AssemblyInfo.cs",
+              "RelativeToolTip": "MVVMTest\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:55:46.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MVVMTest.csproj",
+              "DocumentMoniker": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\MVVMTest.csproj",
+              "RelativeDocumentMoniker": "MVVMTest\\MVVMTest.csproj",
+              "ToolTip": "E:\\Programming\\project\\C#\\MVVMTest\\MVVMTest\\MVVMTest.csproj",
+              "RelativeToolTip": "MVVMTest\\MVVMTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T09:26:30.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
